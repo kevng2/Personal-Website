@@ -1,0 +1,14 @@
+.menu {
+    background-color: #5e5d5d;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+/* enclosing class .menu and all of the a tags */
+.menu a {
+    float: left;
+    color: #f2f2f2; /* color of text */
+    padding: 14px; /* Increases text size and spaces text*/
+    text-decoration: none; /* removes hyperlink lines */
+}
